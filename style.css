@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(240, 218, 218);
+}
+
+p{
+    color: white;
+    font-weight: bold;
+}
+.bg-image {
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-purple {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
+
+div.main {
+    margin-top: 85px;
+    width: 85vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+b{
+    color: red;
+}
+h1{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color:rgb(50, 50, 50);
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+a:hover{
+    color: royalblue;
+    text-decoration: none;
+}
